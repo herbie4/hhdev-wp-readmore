@@ -1,0 +1,18 @@
+.btn-toggle span:hover {
+    width: 150px;
+}
+.btn-toggle span {
+    transition: .2s;
+    position: absolute;
+    z-index: 999;
+    left: 0;
+    right: 0;
+    border-bottom: 2px solid #ee7104;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center !important;
+    line-height: 1em;
+    color: #ee7104;
+    width: 120px;
+    font-weight: 600;
+}
