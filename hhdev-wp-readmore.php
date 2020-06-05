@@ -3,7 +3,7 @@
 * Plugin Name: 	hhdev WP readmore button
 * Version:     	1.0.0
 * Plugin URI:  	https://haha.nl/wordpress-plug-in-op-maat/
-* Description: 	Adds a readmore option on an element using the .loadmore class. When opened shows a 'less' button. Uses FontAwesome icons. Just style it with your custom css. Based on the readmore script from https://jedfoster.com/Readmore.js/
+* Description: 	Adds a readmore option on an element using the .loadmore class. When opened shows a 'less' button. Uses FontAwesome icons if present in theme. Just style it with your custom css. Based on the readmore script from https://jedfoster.com/Readmore.js/
 * License: 		GPL
 * Author:      	Herbert Hoekstra
 * Author URI:  	https://haha.nl/
